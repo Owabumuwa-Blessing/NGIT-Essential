@@ -1,4 +1,4 @@
-| **Command**                               | **What it does / Use**                                                                                             |
+| **Command**                               | **What it does**                                                                                                   |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | cd NGIT_Essential                         | Changes the current directory to `NGIT_Essential`. `cd` stands for “change directory.”                             |
 | ls                                        | Lists all files and folders in the current directory.                                                              |
@@ -10,4 +10,4 @@
 | New-Item test.txt                         | Creates a new file named `test.txt` in the current directory.                                                      |
 | ren test.txt myfile.txt                   | Renames the file `test.txt` to `myfile.txt`.”                                                                      |
 | cd..                                      | Moves up one level to the parent directory.                                                                        |
-| ls                                        | Lists all files and folders in the current directory (`web_basics`) to confirm your new folder and file are there. |
+| ls                                        | Lists all files and folders in the current directory (`web_basics`) to confirm the new folder and file are there.  |

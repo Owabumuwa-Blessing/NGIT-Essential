@@ -1,0 +1,65 @@
+1.  A computer is an electronic device that processes data according to
+    instructions to produce meaningful information. Hardware refers to
+    the physical parts of a computer, while software refers to the
+    programs and instructions that run on the hardware. Examples of
+    hardware: keyboard, monitor, hard drive. Examples of software:
+    Windows OS, Microsoft Word, Google Chrome.
+
+2.  An operating system is system software that manages computer
+    hardware and software resources. Two primary functions are:
+
+-   Managing hardware resources such as memory, CPU, and storage.
+-   Providing an interface for users to interact with the computer.
+
+3.  Differences between Windows and Linux:
+
+-   Windows is a commercial operating system, while Linux is
+    open-source.
+-   Windows is generally more user-friendly for beginners; Linux is more
+    customizable and used by developers.
+-   Windows requires a license, while most Linux distributions are free.
+
+4.  Definitions:
+
+-   File: A collection of data stored on a computer with a specific
+    name.
+-   Folder (Directory): A container used to organize and store files and
+    other folders.
+-   File extension: The suffix at the end of a file name that indicates
+    its type, such as .txt, .jpg, or .html.
+
+5.  The command line is a text-based interface used to interact with the
+    computer by typing commands. It is important for developers because
+    it allows faster navigation, automation, and control over
+    development tools and systems.
+
+6.  Internet-related terms:
+
+-   Server: A computer that provides resources or services to other
+    computers.
+-   Browser: A software application used to access and view websites.
+-   IP Address: A unique number assigned to a device on a network.
+-   DNS: A system that converts domain names into IP addresses.
+-   HTTP and HTTPS: Protocols used to transfer data on the web. HTTPS is
+    the secure, encrypted version of HTTP.
+
+7.  The client–server model is a system where a client requests services
+    and a server provides them. Example: When you type a website address
+    into a browser, the browser (client) sends a request to a web
+    server, and the server sends back the webpage.
+
+8.  Frontend development deals with the visual part of a website that
+    users interact with, using technologies like HTML, CSS, and
+    JavaScript. Backend development handles the server, databases, and
+    application logic that power the website behind the scenes.
+
+9.  A website is a collection of web pages. A domain is the address used
+    to access the website (e.g., google.com). Hosting is the service
+    that stores website files on a server. They work together because
+    the domain points to the hosting server where the website is stored.
+
+10. The browser rendering process starts when a user enters a URL. The
+    browser sends a request to the server, receives the HTML, CSS, and
+    JavaScript files, and then processes them. It builds the page
+    structure, applies styles, runs scripts, and finally displays the
+    webpage on the screen.

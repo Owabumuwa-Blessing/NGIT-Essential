@@ -1,0 +1,29 @@
+Website: https://www.ndpc.gov.ng
+
+Domain Name: ndpc.gov.ng
+
+It uses HTTPS (secure connection)
+
+What Happens Behind the Scenes When I Press Enter:
+
+DNS Lookup:
+My computer contacts a Domain Name Server (DNS) to translate ndpc.gov.ng into an IP address.
+
+Establish Secure Connection (HTTPS):
+Browser and server perform a Transport Layer Security (TLS) handshake to encrypt the connection.
+Server presents a security certificate to verify authenticity.
+
+Send HTTP Request:
+Browser sends an HTTP GET request to the server requesting the webpage.
+
+Server Response:
+Server processes the request and sends back HTML, CSS, images, and scripts.
+
+Browser Rendering:
+Browser builds the Document Object Model (DOM) and renders the visual page.
+
+Additional Resource Loading:
+Browser requests extra resources (scripts, images, styles) referenced by the page.
+
+Page Displayed:
+Fully rendered page appears on your screen ready for interaction.

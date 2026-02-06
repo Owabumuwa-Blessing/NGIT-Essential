@@ -1,0 +1,6 @@
+I learned the basics of computers, including the difference between hardware and software.
+I also learned about operating systems, file management, and how the internet works.
+I learned about data protection, the command line interface (CLI), and the graphical user interface (GUI).
+In addition, I was introduced to Git and GitHub.
+I practiced creating and organizing folders and files, and I used the command line and VS Code.
+I learned how to commit and push code to GitHub, as well as how to restore code from GitHub to my system in case of damage or loss of files.

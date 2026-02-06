@@ -1,0 +1,13 @@
+| **Command**                                 | **What it does / Use**                                                                                             |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| `cd NGIT_Essential`                         | Changes the current directory to `NGIT_Essential`. `cd` stands for “change directory.”                             |
+| `ls`                                        | Lists all files and folders in the current directory.                                                              |
+| `cd BlessingOwabumuwa_NGIT_Week1_Practical` | Changes the directory to `BlessingOwabumuwa_NGIT_Week1_Practical`.                                                 |
+| `ls`                                        | Lists all files and folders in the current directory.                                                              |
+| `cd web_basics`                             | Changes the directory to `web_basics`.                                                                             |
+| `mkdir cli_practice`                        | Creates a new folder named `cli_practice`. `mkdir` stands for “make directory.”                                    |
+| `cd cli_practice`                           | Changes the directory to `cli_practice`.                                                                           |
+| `New-Item test.txt`                         | Creates a new file named `test.txt` in the current directory.                                                      |
+| `ren test.txt myfile.txt`                   | Renames the file `test.txt` to `myfile.txt`. `ren` is short for “rename.”                                          |
+| `cd..`                                      | Moves up one level to the parent directory.                                                                        |
+| `ls`                                        | Lists all files and folders in the current directory (`web_basics`) to confirm your new folder and file are there. |
